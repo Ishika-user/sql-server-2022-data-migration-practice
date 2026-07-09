@@ -1,13 +1,3 @@
-USE Cosys_DB;
-GO
-/*
-Purpose: Practice basic SQL Server queries.
-Topics Covered: SELECT, aliases, DISTINCT, WHERE, ORDER BY, TOP, aggregate functions, GROUP BY, HAVING, CASE, and data quality checks.
-Database: Cosys_DB
-Tables Used: Employee, Department
-Created For: Internship SQL Practice
-Created by: Ishika Bhattarai
-*/
 
 /*
 Display all records from tables
